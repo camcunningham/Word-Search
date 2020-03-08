@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cam/CLionProjects/Assn4_16cjc12/jumble.h
+iostream
+-
+vector
+-
+
+C:/Users/Cam/CLionProjects/Assn4_16cjc12/main.cpp
+string
+-
+iostream
+-
+ctime
+-
+jumble.h
+C:/Users/Cam/CLionProjects/Assn4_16cjc12/jumble.h
+
